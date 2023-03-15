@@ -1,0 +1,3 @@
+#+title: Bible Reader
+
+Attempt to create an interface for an SQLite3 based Bible.
